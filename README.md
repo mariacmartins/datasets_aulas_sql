@@ -15,6 +15,10 @@ Esta pasta contém uma base de dados de um ecossistema de e-commerce.
 * **Origem dos Dados:** [Olist / Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
 * **Estrutura interna:** Contém arquivos no formato `.csv` 
 
+### 💼 2. `training_dataset`
+Esta pasta contém uma base de dados fake de usuários de treinamento corporativo. 
+
+
 *(Novas pastas e cenários serão adicionados ao longo do semestre de acordo com o avanço do conteúdo).*
 
 ---

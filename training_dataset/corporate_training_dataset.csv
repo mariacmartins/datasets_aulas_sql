@@ -1,0 +1,701 @@
+﻿employee_id,manager_id,area,job_title,seniority,course,dt_course_conclusion,updated_at,course_format,course_duration_hours,quiz_score
+EMP00195,MGR035,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-23 01:37:57,Platform Course,4,8
+EMP00126,MGR011,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-08 16:37:57,Platform Course,4,9
+EMP00004,MGR021,Marketing,Analista de Marketing,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-14 00:37:57,Platform Course,12,9
+EMP00150,MGR059,Tecnologia,Arquiteto de Soluções,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 02:37:57,Platform Course,6,8
+EMP00268,MGR052,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 16:37:57,Platform Course,6,8
+EMP00204,MGR058,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 02:37:57,Platform Course,6,10
+EMP00343,MGR027,Dados & Analytics,Cientista de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 10:37:57,Platform Course,6,9
+EMP00337,,Operações,Analista de Operações,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 11:37:57,Platform Course,6,9
+EMP00294,MGR050,Comercial,Gerente Comercial,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-11 14:37:57,Platform Course,12,7
+EMP00181,MGR015,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 02:37:57,Platform Course,6,8
+EMP00254,MGR049,Operações,Analista de Operações,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-05 17:37:57,Live Meet,12,7
+EMP00194,MGR049,Operações,Coordenador Operacional,Especialista,Cultura Data-Driven,2026-05-25,2026-05-08 12:37:57,Live Meet,4,8
+EMP00140,MGR028,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-17 15:37:57,Live Meet,4,9
+EMP00222,MGR058,Tecnologia,Engenheiro de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 00:37:57,Platform Course,6,10
+EMP00015,MGR021,Dados & Analytics,Cientista de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-05 14:37:57,Live Meet,6,10
+EMP00013,MGR041,Financeiro,Analista Financeiro,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 15:37:57,Platform Course,6,10
+EMP00343,,Marketing,Especialista em Growth,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 15:37:57,Live Meet,6,10
+EMP00157,MGR010,People,Coordenador de RH,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 09:37:57,Live Meet,6,9
+EMP00274,MGR022,Dados & Analytics,Analytics Engineer,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 22:37:57,Live Meet,6,8
+EMP00070,MGR030,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 01:37:57,Live Meet,6,9
+EMP00220,MGR051,Comercial,Executivo de Contas,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 17:37:57,Platform Course,6,10
+EMP00176,MGR033,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-08 22:37:57,Platform Course,6,10
+EMP00140,MGR060,Operações,Analista de Operações,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-16 00:37:57,Live Meet,12,8
+EMP00101,MGR033,Tecnologia,Desenvolvedor Backend,Júnior,Cultura Data-Driven,2026-05-25,2026-05-10 00:37:57,Platform Course,4,10
+EMP00119,MGR006,Dados & Analytics,Analytics Engineer,Sênior,Cultura Data-Driven,2026-05-25,2026-05-17 08:37:57,Live Meet,4,10
+EMP00248,MGR032,Comercial,Inside Sales,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-08 22:37:57,Live Meet,6,7
+EMP00175,MGR026,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 11:37:57,Platform Course,6,9
+EMP00312,,People,Analista de People,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 07:37:57,Platform Course,6,10
+EMP00343,MGR055,Dados & Analytics,Cientista de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 15:37:57,Platform Course,4,9
+EMP00196,,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-19 21:37:57,Platform Course,4,10
+EMP00193,MGR024,People,Business Partner,Pleno,Cultura Data-Driven,2026-05-25,2026-05-20 09:37:57,Platform Course,4,9
+EMP00029,MGR025,Marketing,Especialista em Growth,,Cultura Data-Driven,2026-05-25,2026-05-06 16:37:57,Platform Course,4,10
+EMP00332,MGR029,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 19:37:57,Platform Course,6,9
+EMP00295,MGR058,People,Analista de People,Pleno,Cultura Data-Driven,2026-05-25,2026-05-11 10:37:57,Platform Course,4,8
+EMP00255,MGR047,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-12 05:37:57,Live Meet,4,10
+EMP00190,MGR058,Comercial,Executivo de Contas,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-21 16:37:57,Live Meet,12,9
+EMP00298,MGR058,Operações,Analista de Operações,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 17:37:57,Live Meet,6,8
+EMP00146,MGR011,Comercial,Gerente Comercial,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 18:37:57,Platform Course,6,7
+EMP00024,MGR018,Comercial,Inside Sales,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 20:37:57,Live Meet,4,9
+EMP00256,MGR056,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 17:37:57,Platform Course,6,9
+EMP00286,MGR018,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-06 09:37:57,Platform Course,4,9
+EMP00230,MGR008,Operações,Analista de Operações,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 13:37:57,Platform Course,6,9
+EMP00253,MGR009,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-14 22:37:57,Platform Course,4,8
+EMP00038,MGR026,Marketing,Especialista em Growth,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-18 20:37:57,Live Meet,12,9
+EMP00224,MGR045,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 19:37:57,Platform Course,6,9
+EMP00109,MGR033,Marketing,Especialista em Growth,Júnior,Cultura Data-Driven,2026-05-25,2026-05-05 16:37:57,Live Meet,4,10
+EMP00262,MGR043,Dados & Analytics,Cientista de Dados,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 19:37:57,Platform Course,6,9
+EMP00147,MGR009,Comercial,Gerente Comercial,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 01:37:57,Platform Course,4,8
+EMP00283,MGR040,Dados & Analytics,Analista de BI,Sênior,Cultura Data-Driven,2026-05-25,2026-05-11 15:37:57,Live Meet,4,10
+EMP00055,MGR033,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 01:37:57,Platform Course,4,9
+EMP00093,MGR027,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-19 14:37:57,Platform Course,4,9
+EMP00170,MGR003,Marketing,Especialista em Growth,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-21 00:37:57,Live Meet,12,9
+EMP00029,MGR010,Tecnologia,Engenheiro de Dados,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-14 01:37:57,Platform Course,12,9
+EMP00106,MGR053,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 12:37:57,Live Meet,6,9
+EMP00005,MGR019,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 05:37:57,Live Meet,6,10
+EMP00282,MGR005,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-25 01:37:57,Live Meet,4,9
+EMP00329,MGR056,Marketing,Analista de Marketing,Júnior,Cultura Data-Driven,2026-05-25,2026-05-25 07:37:57,Live Meet,4,9
+EMP00067,MGR055,Marketing,Analista de Marketing,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 06:37:57,Live Meet,6,9
+EMP00260,MGR049,Marketing,Especialista em Growth,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 15:37:57,Platform Course,4,9
+EMP00228,MGR056,Operações,Analista de Operações,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 16:37:57,Live Meet,6,9
+EMP00348,MGR005,Dados & Analytics,Analista de BI,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 06:37:57,Live Meet,6,9
+EMP00284,MGR035,Tecnologia,Desenvolvedor Backend,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 06:37:57,Platform Course,6,10
+EMP00083,MGR050,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-05 05:37:57,Live Meet,4,8
+EMP00139,MGR008,Comercial,Executivo de Contas,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-06 23:37:57,Live Meet,12,9
+EMP00048,MGR040,Comercial,Gerente Comercial,Sênior,Cultura Data-Driven,2026-05-25,2026-05-17 13:37:57,Live Meet,4,9
+EMP00169,MGR019,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-08 23:37:57,Platform Course,4,8
+EMP00052,MGR060,Comercial,Gerente Comercial,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 07:37:57,Live Meet,4,8
+EMP00093,MGR053,People,Business Partner,,GenAI - Módulo Avançado,2026-05-25,2026-05-14 05:37:57,Platform Course,12,9
+EMP00067,MGR052,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 13:37:57,Platform Course,4,9
+EMP00034,MGR056,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-13 17:37:57,Platform Course,4,7
+EMP00346,MGR035,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-24 06:37:57,Platform Course,4,9
+EMP00341,MGR010,Marketing,Analista de Marketing,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 02:37:57,Platform Course,6,9
+EMP00217,MGR005,Comercial,Executivo de Contas,Especialista,Cultura Data-Driven,2026-05-25,2026-05-11 01:37:57,Platform Course,4,9
+EMP00297,MGR013,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-23 12:37:57,Platform Course,4,10
+EMP00039,MGR054,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-08 15:37:57,Platform Course,4,9
+EMP00016,MGR014,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 04:37:57,Platform Course,6,9
+EMP00242,MGR040,Tecnologia,Arquiteto de Soluções,Pleno,Cultura Data-Driven,2026-05-25,2026-05-24 13:37:57,Live Meet,4,8
+EMP00349,MGR007,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 05:37:57,Platform Course,6,9
+EMP00339,MGR038,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 04:37:57,Live Meet,6,9
+EMP00274,MGR034,Comercial,Inside Sales,Pleno,Cultura Data-Driven,2026-05-25,2026-05-12 21:37:57,Platform Course,4,9
+EMP00310,MGR046,Marketing,Especialista em Growth,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-25 08:37:57,Live Meet,12,9
+EMP00336,MGR016,Operações,Coordenador Operacional,,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 12:37:57,Live Meet,6,8
+EMP00146,MGR054,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 06:37:57,Platform Course,6,10
+EMP00191,MGR049,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 11:37:57,Platform Course,4,7
+EMP00119,MGR037,Operações,Coordenador Operacional,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-07 00:37:57,Live Meet,12,8
+EMP00119,MGR057,Financeiro,Controller,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 10:37:57,Platform Course,6,8
+EMP00137,MGR022,Comercial,Inside Sales,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 06:37:57,Live Meet,6,10
+EMP00265,MGR046,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 04:37:57,Live Meet,6,8
+EMP00205,MGR048,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-05 21:37:57,Platform Course,4,9
+EMP00249,MGR033,Dados & Analytics,Analytics Engineer,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-05 21:37:57,Platform Course,6,9
+EMP00225,MGR015,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-09 06:37:57,Live Meet,4,8
+EMP00327,MGR028,Comercial,Gerente Comercial,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 01:37:57,Live Meet,6,10
+EMP00020,MGR046,Dados & Analytics,Cientista de Dados,Especialista,Cultura Data-Driven,2026-05-25,2026-05-25 23:37:57,Platform Course,4,7
+EMP00345,,Comercial,Inside Sales,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-08 04:37:57,Platform Course,12,10
+EMP00120,MGR003,Comercial,Executivo de Contas,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 05:37:57,Platform Course,6,8
+EMP00328,MGR054,Tecnologia,Engenheiro de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 13:37:57,Live Meet,6,9
+EMP00160,MGR044,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 09:37:57,Platform Course,4,8
+EMP00006,MGR039,Comercial,Gerente Comercial,Sênior,Cultura Data-Driven,2026-05-25,2026-05-21 10:37:57,Live Meet,4,8
+EMP00179,MGR015,Operações,Coordenador Operacional,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 21:37:57,Platform Course,6,7
+EMP00261,MGR025,Dados & Analytics,Analista de BI,Pleno,Cultura Data-Driven,2026-05-25,2026-05-23 15:37:57,Live Meet,4,8
+EMP00043,MGR056,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 20:37:57,Live Meet,4,9
+EMP00021,MGR027,Comercial,Executivo de Contas,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-12 12:37:57,Live Meet,12,8
+EMP00171,MGR024,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 03:37:57,Live Meet,6,10
+EMP00257,MGR021,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-11 14:37:57,Platform Course,4,9
+EMP00164,MGR039,People,Analista de People,Sênior,Cultura Data-Driven,2026-05-25,2026-05-16 22:37:57,Platform Course,4,9
+EMP00080,MGR014,Comercial,Gerente Comercial,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-06 11:37:57,Live Meet,12,9
+EMP00101,MGR030,Tecnologia,Arquiteto de Soluções,Pleno,Cultura Data-Driven,2026-05-25,2026-05-16 21:37:57,Platform Course,4,9
+EMP00151,MGR006,Dados & Analytics,Analytics Engineer,Pleno,Cultura Data-Driven,2026-05-25,2026-05-17 13:37:57,Live Meet,4,9
+EMP00196,MGR037,Comercial,Inside Sales,Pleno,Cultura Data-Driven,2026-05-25,2026-05-06 16:37:57,Platform Course,4,8
+EMP00214,MGR051,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 04:37:57,Live Meet,6,9
+EMP00267,MGR016,Operações,Coordenador Operacional,Júnior,Cultura Data-Driven,2026-05-25,2026-05-16 21:37:57,Live Meet,4,9
+EMP00189,MGR030,People,Coordenador de RH,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-09 00:37:57,Live Meet,6,9
+EMP00072,MGR052,Operações,Coordenador Operacional,Júnior,Cultura Data-Driven,2026-05-25,2026-05-07 22:37:57,Platform Course,4,10
+EMP00101,MGR019,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-18 07:37:57,Platform Course,4,9
+EMP00230,,Operações,Analista de Operações,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-19 07:37:57,Platform Course,12,9
+EMP00021,MGR007,Tecnologia,Desenvolvedor Backend,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 16:37:57,Platform Course,6,8
+EMP00089,MGR007,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 13:37:57,Platform Course,4,9
+EMP00345,MGR020,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-21 19:37:57,Platform Course,4,9
+EMP00316,MGR032,Comercial,Gerente Comercial,Júnior,Cultura Data-Driven,2026-05-25,2026-05-14 02:37:57,Live Meet,4,9
+EMP00099,MGR015,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-07 22:37:57,Live Meet,4,9
+EMP00102,MGR011,Dados & Analytics,Analytics Engineer,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 04:37:57,Platform Course,6,7
+EMP00322,MGR012,Tecnologia,Engenheiro de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 17:37:57,Live Meet,6,9
+EMP00283,MGR041,Comercial,Executivo de Contas,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-13 19:37:57,Live Meet,12,8
+EMP00129,MGR036,Dados & Analytics,Cientista de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 18:37:57,Platform Course,6,7
+EMP00339,MGR046,Tecnologia,Engenheiro de Dados,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 02:37:57,Platform Course,6,7
+EMP00166,MGR033,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 12:37:57,Live Meet,6,8
+EMP00073,MGR017,Comercial,Gerente Comercial,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 02:37:57,Platform Course,6,7
+EMP00254,MGR031,Tecnologia,Tech Lead,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 23:37:57,Platform Course,6,8
+EMP00294,MGR034,Comercial,Executivo de Contas,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-17 18:37:57,Platform Course,12,9
+EMP00199,MGR010,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-11 12:37:57,Platform Course,4,7
+EMP00346,MGR036,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-11 22:37:57,Platform Course,4,10
+EMP00188,MGR054,Dados & Analytics,Cientista de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-17 08:37:57,Platform Course,4,10
+EMP00116,MGR044,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-18 11:37:57,Live Meet,6,8
+EMP00002,MGR042,Tecnologia,Arquiteto de Soluções,Pleno,Cultura Data-Driven,2026-05-25,2026-05-06 16:37:57,Platform Course,4,9
+EMP00069,MGR052,Comercial,Gerente Comercial,Especialista,Cultura Data-Driven,2026-05-25,2026-05-25 18:37:57,Platform Course,4,7
+EMP00272,MGR009,Tecnologia,Desenvolvedor Backend,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 19:37:57,Live Meet,6,9
+EMP00289,MGR027,Operações,Coordenador Operacional,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 14:37:57,Platform Course,6,8
+EMP00119,MGR048,Financeiro,Controller,Pleno,Cultura Data-Driven,2026-05-25,2026-05-22 00:37:57,Platform Course,4,9
+EMP00214,MGR018,Jurídico,Analista Jurídico,Júnior,Cultura Data-Driven,2026-05-25,2026-05-14 21:37:57,Platform Course,4,7
+EMP00238,MGR050,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-18 22:37:57,Platform Course,4,9
+EMP00192,MGR055,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-06 07:37:57,Platform Course,4,9
+EMP00262,MGR035,Financeiro,Controller,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 00:37:57,Platform Course,6,10
+EMP00201,MGR052,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 16:37:57,Platform Course,6,8
+EMP00321,MGR056,Operações,Coordenador Operacional,Júnior,Cultura Data-Driven,2026-05-25,2026-05-09 20:37:57,Platform Course,4,8
+EMP00065,MGR016,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-13 16:37:57,Platform Course,4,9
+EMP00316,MGR029,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 23:37:57,Live Meet,4,10
+EMP00332,MGR040,Dados & Analytics,Cientista de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-08 01:37:57,Platform Course,6,9
+EMP00326,MGR013,Financeiro,Controller,Sênior,Cultura Data-Driven,2026-05-25,2026-05-22 21:37:57,Platform Course,4,9
+EMP00302,MGR022,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 20:37:57,Platform Course,6,8
+EMP00249,MGR024,Marketing,Analista de Marketing,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 06:37:57,Platform Course,6,8
+EMP00328,MGR028,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-21 22:37:57,Platform Course,4,10
+EMP00169,MGR002,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 20:37:57,Platform Course,6,9
+EMP00223,MGR009,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 19:37:57,Platform Course,6,9
+EMP00311,MGR058,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-05 08:37:57,Live Meet,4,7
+EMP00173,MGR014,Financeiro,Controller,Pleno,Cultura Data-Driven,2026-05-25,2026-05-10 16:37:57,Platform Course,4,8
+EMP00195,MGR045,Comercial,Executivo de Contas,Especialista,Cultura Data-Driven,2026-05-25,2026-05-16 06:37:57,Live Meet,4,8
+EMP00299,MGR038,People,Coordenador de RH,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 09:37:57,Platform Course,4,9
+EMP00057,MGR002,Tecnologia,Arquiteto de Soluções,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 04:37:57,Platform Course,6,10
+EMP00049,MGR009,Tecnologia,Tech Lead,Sênior,Cultura Data-Driven,2026-05-25,2026-05-23 21:37:57,Platform Course,4,9
+EMP00012,MGR003,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-18 12:37:57,Platform Course,4,9
+EMP00255,MGR048,Operações,Coordenador Operacional,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 03:37:57,Platform Course,6,8
+EMP00237,MGR005,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-12 23:37:57,Platform Course,4,7
+EMP00274,MGR015,People,Coordenador de RH,Pleno,Cultura Data-Driven,2026-05-25,2026-05-11 08:37:57,Live Meet,4,9
+EMP00157,MGR007,Tecnologia,Desenvolvedor Backend,Júnior,Cultura Data-Driven,2026-05-25,2026-05-17 07:37:57,Platform Course,4,9
+EMP00123,MGR033,Tecnologia,Tech Lead,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 23:37:57,Platform Course,4,10
+EMP00344,MGR045,Tecnologia,Arquiteto de Soluções,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-18 00:37:57,Live Meet,6,7
+EMP00285,MGR028,Tecnologia,Arquiteto de Soluções,,GenAI - Módulo Avançado,2026-05-25,2026-05-06 20:37:57,Live Meet,12,7
+EMP00243,MGR026,Tecnologia,Desenvolvedor Backend,Sênior,Cultura Data-Driven,2026-05-25,2026-05-22 23:37:57,Platform Course,4,9
+EMP00340,MGR014,Operações,Coordenador Operacional,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 09:37:57,Live Meet,6,9
+EMP00319,MGR056,Dados & Analytics,Analytics Engineer,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-07 21:37:57,Platform Course,12,10
+EMP00047,MGR018,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-12 02:37:57,Platform Course,4,8
+EMP00063,MGR009,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 16:37:57,Live Meet,6,10
+EMP00316,MGR020,Operações,Coordenador Operacional,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-08 07:37:57,Platform Course,12,10
+EMP00087,MGR013,Marketing,Especialista em Growth,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-07 17:37:57,Live Meet,12,10
+EMP00229,MGR026,Dados & Analytics,Analista de BI,Pleno,Cultura Data-Driven,2026-05-25,2026-05-10 19:37:57,Live Meet,4,9
+EMP00144,MGR043,Dados & Analytics,Analytics Engineer,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-08 04:37:57,Live Meet,6,8
+EMP00350,MGR009,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 12:37:57,Platform Course,6,8
+EMP00063,MGR056,Comercial,Gerente Comercial,,GenAI - Módulo Avançado,2026-05-25,2026-05-11 03:37:57,Platform Course,12,10
+EMP00173,MGR009,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-07 17:37:57,Platform Course,4,9
+EMP00028,MGR057,Marketing,Analista de Marketing,Pleno,Cultura Data-Driven,2026-05-25,2026-05-07 03:37:57,Live Meet,4,9
+EMP00151,MGR030,Comercial,Inside Sales,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 19:37:57,Platform Course,6,9
+EMP00154,MGR009,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-20 10:37:57,Platform Course,4,9
+EMP00230,MGR049,Tecnologia,Desenvolvedor Backend,Júnior,Cultura Data-Driven,2026-05-25,2026-05-18 13:37:57,Platform Course,4,10
+EMP00224,MGR011,Tecnologia,Tech Lead,Pleno,Cultura Data-Driven,2026-05-25,2026-05-18 12:37:57,Live Meet,4,7
+EMP00116,MGR001,Comercial,Executivo de Contas,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-18 12:37:57,Platform Course,6,7
+EMP00342,MGR054,Comercial,Inside Sales,Sênior,Cultura Data-Driven,2026-05-25,2026-05-12 03:37:57,Platform Course,4,9
+EMP00076,MGR008,Tecnologia,Desenvolvedor Backend,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 09:37:57,Platform Course,6,10
+EMP00004,MGR004,Tecnologia,Engenheiro de Dados,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-08 10:37:57,Live Meet,12,10
+EMP00184,MGR012,Tecnologia,Arquiteto de Soluções,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-09 10:37:57,Platform Course,6,9
+EMP00109,MGR058,Marketing,Analista de Marketing,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 18:37:57,Live Meet,6,10
+EMP00094,MGR012,Operações,Analista de Operações,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 09:37:57,Platform Course,6,8
+EMP00161,MGR040,Marketing,Analista de Marketing,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 22:37:57,Platform Course,6,9
+EMP00058,MGR050,Dados & Analytics,Analista de BI,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 22:37:57,Live Meet,6,9
+EMP00191,MGR043,People,Coordenador de RH,Pleno,Cultura Data-Driven,2026-05-25,2026-05-23 20:37:57,Platform Course,4,8
+EMP00306,MGR053,Tecnologia,Arquiteto de Soluções,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-13 01:37:57,Live Meet,12,7
+EMP00309,MGR025,Comercial,Gerente Comercial,Júnior,Cultura Data-Driven,2026-05-25,2026-05-07 09:37:57,Live Meet,4,9
+EMP00272,MGR060,Tecnologia,Desenvolvedor Backend,Júnior,Cultura Data-Driven,2026-05-25,2026-05-09 06:37:57,Platform Course,4,9
+EMP00053,MGR001,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 08:37:57,Platform Course,6,9
+EMP00201,MGR027,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-15 05:37:57,Platform Course,4,9
+EMP00079,MGR048,Operações,Analista de Operações,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-10 14:37:57,Live Meet,12,7
+EMP00028,MGR045,Financeiro,Analista Financeiro,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 20:37:57,Platform Course,6,9
+EMP00159,MGR043,Marketing,Analista de Marketing,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 19:37:57,Platform Course,6,9
+EMP00267,MGR031,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-08 21:37:57,Platform Course,4,8
+EMP00031,MGR023,Comercial,Inside Sales,Júnior,Cultura Data-Driven,2026-05-25,2026-05-23 09:37:57,Platform Course,4,8
+EMP00273,MGR058,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 01:37:57,Live Meet,4,9
+EMP00213,MGR018,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-15 09:37:57,Platform Course,4,10
+EMP00211,MGR016,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-07 12:37:57,Platform Course,4,10
+EMP00146,,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 16:37:57,Platform Course,6,9
+EMP00166,MGR056,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 15:37:57,Platform Course,6,10
+EMP00323,MGR058,People,Coordenador de RH,Especialista,Cultura Data-Driven,2026-05-25,2026-05-05 05:37:57,Platform Course,4,10
+EMP00172,MGR059,Tecnologia,Desenvolvedor Backend,Especialista,Cultura Data-Driven,2026-05-25,2026-05-09 04:37:57,Platform Course,4,9
+EMP00116,MGR056,Comercial,Gerente Comercial,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-08 08:37:57,Platform Course,6,7
+EMP00183,MGR049,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-12 04:37:57,Platform Course,4,9
+EMP00284,MGR009,Comercial,Inside Sales,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 14:37:57,Platform Course,6,10
+EMP00147,MGR008,People,Business Partner,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-23 18:37:57,Platform Course,12,8
+EMP00036,MGR041,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-05 15:37:57,Platform Course,4,9
+EMP00028,MGR046,Comercial,Gerente Comercial,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-05 13:37:57,Live Meet,12,9
+EMP00110,MGR034,Financeiro,Analista Financeiro,,GenAI - Módulo Avançado,2026-05-25,2026-05-19 01:37:57,Platform Course,12,7
+EMP00061,MGR016,Tecnologia,Tech Lead,Pleno,Cultura Data-Driven,2026-05-25,2026-05-08 21:37:57,Platform Course,4,10
+EMP00177,MGR012,Tecnologia,Tech Lead,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-10 14:37:57,Live Meet,12,9
+EMP00140,MGR040,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-09 23:37:57,Live Meet,4,8
+EMP00315,MGR006,Dados & Analytics,Cientista de Dados,Especialista,Cultura Data-Driven,2026-05-25,2026-05-08 03:37:57,Platform Course,4,9
+EMP00233,MGR004,Tecnologia,Engenheiro de Dados,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-09 13:37:57,Live Meet,6,10
+EMP00108,MGR034,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-13 20:37:57,Live Meet,4,9
+EMP00248,MGR020,Marketing,Especialista em Growth,Pleno,Cultura Data-Driven,2026-05-25,2026-05-08 12:37:57,Live Meet,4,10
+EMP00218,MGR023,Tecnologia,Desenvolvedor Backend,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-22 07:37:57,Live Meet,12,9
+EMP00196,MGR048,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-06 01:37:57,Platform Course,4,9
+EMP00039,MGR036,Comercial,Gerente Comercial,Júnior,Cultura Data-Driven,2026-05-25,2026-05-10 08:37:57,Platform Course,4,9
+EMP00231,MGR034,Marketing,Analista de Marketing,Júnior,Cultura Data-Driven,2026-05-25,2026-05-13 03:37:57,Live Meet,4,9
+EMP00116,MGR037,Comercial,Gerente Comercial,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-09 11:37:57,Platform Course,12,10
+EMP00039,MGR060,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-18 20:37:57,Live Meet,4,8
+EMP00020,MGR031,Dados & Analytics,Analista de BI,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-12 03:37:57,Platform Course,12,7
+EMP00048,MGR026,Comercial,Inside Sales,Júnior,Cultura Data-Driven,2026-05-25,2026-05-24 17:37:57,Platform Course,4,8
+EMP00054,MGR048,Tecnologia,Desenvolvedor Backend,Júnior,Cultura Data-Driven,2026-05-25,2026-05-21 05:37:57,Platform Course,4,10
+EMP00099,MGR040,Marketing,Analista de Marketing,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-15 10:37:57,Platform Course,12,10
+EMP00150,MGR055,People,Analista de People,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-09 00:37:57,Live Meet,12,9
+EMP00063,MGR015,Tecnologia,Arquiteto de Soluções,Sênior,Cultura Data-Driven,2026-05-25,2026-05-24 23:37:57,Platform Course,4,10
+EMP00334,MGR060,People,Coordenador de RH,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 14:37:57,Live Meet,6,8
+EMP00028,MGR001,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-22 17:37:57,Platform Course,4,10
+EMP00297,MGR022,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 15:37:57,Live Meet,6,10
+EMP00026,MGR013,Operações,Coordenador Operacional,Júnior,Cultura Data-Driven,2026-05-25,2026-05-12 17:37:57,Live Meet,4,10
+EMP00316,MGR022,Comercial,Gerente Comercial,Júnior,Cultura Data-Driven,2026-05-25,2026-05-21 21:37:57,Live Meet,4,8
+EMP00279,MGR054,Tecnologia,Tech Lead,Sênior,Cultura Data-Driven,2026-05-25,2026-05-17 09:37:57,Live Meet,4,8
+EMP00027,MGR048,Tecnologia,Tech Lead,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-09 19:37:57,Live Meet,12,8
+EMP00330,MGR002,Operações,Analista de Operações,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 22:37:57,Platform Course,6,9
+EMP00119,MGR035,People,Coordenador de RH,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 23:37:57,Live Meet,6,10
+EMP00344,MGR008,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 21:37:57,Platform Course,6,10
+EMP00038,MGR031,Dados & Analytics,Analytics Engineer,Júnior,Cultura Data-Driven,2026-05-25,2026-05-21 01:37:57,Platform Course,4,9
+EMP00289,MGR049,Comercial,Gerente Comercial,Sênior,Cultura Data-Driven,2026-05-25,2026-05-23 05:37:57,Live Meet,4,8
+EMP00010,MGR041,People,Coordenador de RH,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 04:37:57,Platform Course,6,8
+EMP00018,MGR057,Marketing,Analista de Marketing,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-10 18:37:57,Platform Course,12,10
+EMP00010,MGR021,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-13 03:37:57,Platform Course,4,9
+EMP00210,MGR046,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 02:37:57,Platform Course,4,7
+EMP00334,,Financeiro,Analista Financeiro,Especialista,Cultura Data-Driven,2026-05-25,2026-05-10 03:37:57,Platform Course,4,10
+EMP00315,MGR053,Comercial,Gerente Comercial,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 04:37:57,Live Meet,6,9
+EMP00271,MGR058,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-06 17:37:57,Live Meet,4,8
+EMP00289,MGR011,Operações,Analista de Operações,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-13 20:37:57,Platform Course,12,10
+EMP00316,MGR051,Dados & Analytics,Cientista de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 23:37:57,Live Meet,6,9
+EMP00294,MGR007,Dados & Analytics,Cientista de Dados,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-16 16:37:57,Live Meet,12,10
+EMP00003,MGR031,Operações,Coordenador Operacional,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 15:37:57,Live Meet,6,9
+EMP00029,MGR056,Jurídico,Advogado Corporativo,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-21 13:37:57,Platform Course,12,7
+EMP00140,MGR011,Dados & Analytics,Analytics Engineer,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-09 07:37:57,Platform Course,6,7
+EMP00184,MGR050,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-23 04:37:57,Platform Course,4,10
+EMP00299,MGR029,Marketing,Especialista em Growth,Pleno,Cultura Data-Driven,2026-05-25,2026-05-05 23:37:57,Platform Course,4,10
+EMP00305,MGR048,Operações,Coordenador Operacional,Sênior,Cultura Data-Driven,2026-05-25,2026-05-05 17:37:57,Live Meet,4,8
+EMP00191,MGR033,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-20 23:37:57,Platform Course,4,9
+EMP00044,MGR009,Tecnologia,Arquiteto de Soluções,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-18 16:37:57,Live Meet,12,9
+EMP00206,MGR006,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-24 08:37:57,Platform Course,4,8
+EMP00038,MGR005,Tecnologia,Desenvolvedor Backend,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-10 14:37:57,Platform Course,12,9
+EMP00196,MGR049,People,Analista de People,Júnior,Cultura Data-Driven,2026-05-25,2026-05-08 20:37:57,Live Meet,4,9
+EMP00219,MGR054,Comercial,Inside Sales,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-10 19:37:57,Live Meet,12,9
+EMP00113,MGR009,Comercial,Inside Sales,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 17:37:57,Live Meet,6,8
+EMP00235,MGR034,Comercial,Inside Sales,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 02:37:57,Platform Course,6,10
+EMP00194,MGR005,Operações,Coordenador Operacional,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-22 16:37:57,Platform Course,12,10
+EMP00104,MGR035,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 19:37:57,Live Meet,6,8
+EMP00238,MGR041,Tecnologia,Engenheiro de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-19 03:37:57,Live Meet,4,9
+EMP00089,MGR005,Comercial,Executivo de Contas,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 12:37:57,Platform Course,6,9
+EMP00003,MGR018,Tecnologia,Engenheiro de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 03:37:57,Platform Course,6,9
+EMP00111,,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 23:37:57,Live Meet,6,9
+EMP00152,MGR008,Dados & Analytics,Analista de BI,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 00:37:57,Platform Course,6,9
+EMP00193,MGR045,Operações,Coordenador Operacional,,Cultura Data-Driven,2026-05-25,2026-05-24 13:37:57,Platform Course,4,10
+EMP00305,MGR022,People,Coordenador de RH,Sênior,Cultura Data-Driven,2026-05-25,2026-05-14 14:37:57,Platform Course,4,9
+EMP00161,MGR022,Tecnologia,Engenheiro de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 14:37:57,Platform Course,6,10
+EMP00204,MGR051,Comercial,Inside Sales,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-17 18:37:57,Platform Course,12,8
+EMP00274,MGR016,Marketing,Especialista em Growth,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-24 22:37:57,Live Meet,12,10
+EMP00143,MGR015,Comercial,Gerente Comercial,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 11:37:57,Platform Course,6,8
+EMP00137,MGR040,Marketing,Especialista em Growth,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-05 23:37:57,Live Meet,6,9
+EMP00297,MGR049,Operações,Analista de Operações,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 01:37:57,Live Meet,6,8
+EMP00291,MGR052,Financeiro,Controller,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 02:37:57,Platform Course,4,10
+EMP00026,MGR046,Dados & Analytics,Cientista de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-17 09:37:57,Platform Course,4,9
+EMP00142,MGR024,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-17 06:37:57,Platform Course,4,7
+EMP00074,MGR010,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-06 04:37:57,Platform Course,4,8
+EMP00161,MGR011,Tecnologia,Desenvolvedor Backend,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-09 09:37:57,Platform Course,6,8
+EMP00008,MGR038,Operações,Analista de Operações,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-10 07:37:57,Live Meet,12,7
+EMP00219,MGR030,Financeiro,Controller,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 08:37:57,Platform Course,6,10
+EMP00344,MGR036,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 09:37:57,Platform Course,6,8
+EMP00139,MGR041,Comercial,Executivo de Contas,Sênior,Cultura Data-Driven,2026-05-25,2026-05-21 19:37:57,Live Meet,4,10
+EMP00130,MGR039,People,Business Partner,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-24 11:37:57,Live Meet,12,9
+EMP00083,MGR054,Dados & Analytics,Cientista de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 03:37:57,Platform Course,6,9
+EMP00276,MGR019,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 16:37:57,Platform Course,6,8
+EMP00113,MGR056,People,Analista de People,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 13:37:57,Platform Course,4,7
+EMP00106,MGR046,Tecnologia,Arquiteto de Soluções,Sênior,Cultura Data-Driven,2026-05-25,2026-05-07 22:37:57,Platform Course,4,9
+EMP00023,,Dados & Analytics,Analista de BI,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-07 16:37:57,Platform Course,12,8
+EMP00331,MGR036,Financeiro,Analista Financeiro,Pleno,Cultura Data-Driven,2026-05-25,2026-05-13 03:37:57,Platform Course,4,9
+EMP00130,MGR052,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 08:37:57,Platform Course,4,10
+EMP00012,MGR056,Operações,Coordenador Operacional,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 19:37:57,Live Meet,6,10
+EMP00324,MGR050,Tecnologia,Tech Lead,Pleno,Cultura Data-Driven,2026-05-25,2026-05-23 02:37:57,Live Meet,4,9
+EMP00069,MGR052,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-24 06:37:57,Live Meet,4,9
+EMP00067,MGR014,Comercial,Executivo de Contas,Sênior,Cultura Data-Driven,2026-05-25,2026-05-05 04:37:57,Platform Course,4,8
+EMP00262,MGR042,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-23 04:37:57,Platform Course,4,8
+EMP00150,MGR002,Tecnologia,Desenvolvedor Backend,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 07:37:57,Platform Course,6,9
+EMP00247,MGR014,Tecnologia,Engenheiro de Dados,,Cultura Data-Driven,2026-05-25,2026-05-11 13:37:57,Live Meet,4,8
+EMP00023,MGR017,Tecnologia,Engenheiro de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 23:37:57,Platform Course,6,10
+EMP00297,MGR010,Jurídico,Advogado Corporativo,Pleno,Cultura Data-Driven,2026-05-25,2026-05-18 19:37:57,Platform Course,4,7
+EMP00040,MGR008,Operações,Coordenador Operacional,Sênior,Cultura Data-Driven,2026-05-25,2026-05-16 15:37:57,Live Meet,4,8
+EMP00303,MGR008,Comercial,Inside Sales,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 22:37:57,Platform Course,4,7
+EMP00271,MGR002,Operações,Analista de Operações,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-19 13:37:57,Live Meet,12,9
+EMP00238,MGR002,Comercial,Gerente Comercial,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 00:37:57,Platform Course,6,7
+EMP00136,MGR005,Tecnologia,Desenvolvedor Backend,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-24 09:37:57,Platform Course,12,8
+EMP00289,MGR046,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 22:37:57,Live Meet,6,8
+EMP00262,MGR050,Tecnologia,Tech Lead,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-18 13:37:57,Live Meet,12,9
+EMP00110,MGR010,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-22 20:37:57,Platform Course,4,9
+EMP00210,MGR014,Tecnologia,Arquiteto de Soluções,,GenAI - Módulo Avançado,2026-05-25,2026-05-09 23:37:57,Live Meet,12,8
+EMP00016,MGR005,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 01:37:57,Live Meet,6,10
+EMP00094,MGR025,Jurídico,Advogado Corporativo,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 03:37:57,Platform Course,6,8
+EMP00177,MGR049,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 14:37:57,Platform Course,6,9
+EMP00282,MGR035,Dados & Analytics,Analista de BI,Sênior,Cultura Data-Driven,2026-05-25,2026-05-09 10:37:57,Live Meet,4,10
+EMP00109,MGR020,Comercial,Inside Sales,Sênior,Cultura Data-Driven,2026-05-25,2026-05-16 01:37:57,Platform Course,4,9
+EMP00018,MGR003,Comercial,Inside Sales,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 02:37:57,Platform Course,6,9
+EMP00189,MGR006,Dados & Analytics,Analytics Engineer,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 10:37:57,Platform Course,6,8
+EMP00146,MGR014,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-15 01:37:57,Platform Course,4,7
+EMP00345,MGR030,Dados & Analytics,Cientista de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 02:37:57,Live Meet,6,8
+EMP00292,MGR052,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 07:37:57,Platform Course,4,7
+EMP00211,MGR018,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-09 05:37:57,Live Meet,4,7
+EMP00078,MGR031,Tecnologia,Arquiteto de Soluções,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-13 21:37:57,Platform Course,12,9
+EMP00197,MGR032,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-16 13:37:57,Platform Course,4,9
+EMP00265,MGR015,Financeiro,Analista Financeiro,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 21:37:57,Live Meet,6,9
+EMP00206,MGR031,Tecnologia,Tech Lead,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-20 01:37:57,Platform Course,12,8
+EMP00158,MGR001,Comercial,Inside Sales,Pleno,Cultura Data-Driven,2026-05-25,2026-05-09 09:37:57,Platform Course,4,9
+EMP00230,MGR036,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 08:37:57,Platform Course,6,9
+EMP00160,MGR006,Tecnologia,Engenheiro de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-13 06:37:57,Platform Course,4,10
+EMP00191,MGR029,Dados & Analytics,Analista de BI,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 03:37:57,Platform Course,6,8
+EMP00263,MGR041,Dados & Analytics,Analytics Engineer,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 18:37:57,Live Meet,6,8
+EMP00025,MGR033,Marketing,Analista de Marketing,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 11:37:57,Platform Course,6,7
+EMP00054,MGR009,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-12 16:37:57,Live Meet,4,9
+EMP00236,MGR020,Dados & Analytics,Cientista de Dados,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 17:37:57,Platform Course,6,9
+EMP00087,MGR043,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-09 05:37:57,Platform Course,4,9
+EMP00115,MGR014,Tecnologia,Arquiteto de Soluções,Especialista,Cultura Data-Driven,2026-05-25,2026-05-16 14:37:57,Platform Course,4,8
+EMP00329,MGR045,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-19 12:37:57,Platform Course,4,8
+EMP00012,MGR050,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-22 14:37:57,Platform Course,4,8
+EMP00065,MGR041,People,Analista de People,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 23:37:57,Platform Course,6,8
+EMP00279,MGR059,Operações,Coordenador Operacional,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-08 17:37:57,Live Meet,12,8
+EMP00348,MGR024,Tecnologia,Desenvolvedor Backend,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-09 09:37:57,Live Meet,12,10
+EMP00286,MGR005,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-08 17:37:57,Live Meet,4,8
+EMP00011,MGR005,Operações,Analista de Operações,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-13 04:37:57,Live Meet,12,9
+EMP00196,MGR012,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-20 05:37:57,Platform Course,4,9
+EMP00009,MGR060,Marketing,Analista de Marketing,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 18:37:57,Live Meet,6,7
+EMP00008,MGR028,Tecnologia,Desenvolvedor Backend,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 14:37:57,Platform Course,6,9
+EMP00164,MGR021,Dados & Analytics,Analytics Engineer,Sênior,Cultura Data-Driven,2026-05-25,2026-05-21 10:37:57,Platform Course,4,8
+EMP00170,MGR055,Tecnologia,Desenvolvedor Backend,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 04:37:57,Platform Course,6,8
+EMP00008,MGR035,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 07:37:57,Platform Course,6,9
+EMP00241,MGR008,Comercial,Inside Sales,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 01:37:57,Platform Course,4,9
+EMP00008,MGR015,Dados & Analytics,Analista de BI,Pleno,Cultura Data-Driven,2026-05-25,2026-05-22 14:37:57,Live Meet,4,9
+EMP00280,MGR045,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-11 04:37:57,Platform Course,4,8
+EMP00338,MGR039,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-13 12:37:57,Live Meet,4,8
+EMP00052,MGR038,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 12:37:57,Live Meet,6,8
+EMP00349,MGR014,Dados & Analytics,Analista de BI,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-26 01:37:57,Platform Course,12,10
+EMP00098,MGR016,Operações,Coordenador Operacional,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-15 15:37:57,Platform Course,12,10
+EMP00290,MGR007,Tecnologia,Arquiteto de Soluções,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-18 13:37:57,Platform Course,6,10
+EMP00209,MGR040,Tecnologia,Arquiteto de Soluções,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-05 20:37:57,Live Meet,12,9
+EMP00296,MGR025,Operações,Coordenador Operacional,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 07:37:57,Platform Course,6,8
+EMP00148,MGR030,Jurídico,Analista Jurídico,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-05 21:37:57,Live Meet,6,10
+EMP00138,MGR019,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 12:37:57,Platform Course,6,9
+EMP00035,MGR013,Comercial,Gerente Comercial,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-18 09:37:57,Live Meet,12,10
+EMP00279,MGR001,Marketing,Analista de Marketing,Pleno,Cultura Data-Driven,2026-05-25,2026-05-16 22:37:57,Platform Course,4,9
+EMP00172,MGR027,Dados & Analytics,Cientista de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 01:37:57,Platform Course,4,8
+EMP00345,MGR018,Dados & Analytics,Analytics Engineer,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 21:37:57,Platform Course,6,8
+EMP00092,MGR012,Tecnologia,Engenheiro de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-17 16:37:57,Live Meet,4,10
+EMP00103,MGR054,Comercial,Gerente Comercial,Júnior,Cultura Data-Driven,2026-05-25,2026-05-19 07:37:57,Platform Course,4,9
+EMP00091,MGR025,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 22:37:57,Live Meet,4,10
+EMP00230,MGR006,Operações,Coordenador Operacional,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-20 04:37:57,Platform Course,12,9
+EMP00285,MGR032,Dados & Analytics,Analista de BI,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 01:37:57,Platform Course,6,8
+EMP00103,MGR031,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-07 09:37:57,Platform Course,4,8
+EMP00230,MGR023,Tecnologia,Desenvolvedor Backend,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 05:37:57,Platform Course,6,8
+EMP00277,MGR020,Financeiro,Controller,Júnior,Cultura Data-Driven,2026-05-25,2026-05-14 21:37:57,Platform Course,4,9
+EMP00038,MGR012,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 16:37:57,Live Meet,6,8
+EMP00297,MGR038,Tecnologia,Tech Lead,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-18 05:37:57,Platform Course,12,9
+EMP00116,MGR012,Dados & Analytics,Analytics Engineer,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 10:37:57,Platform Course,6,8
+EMP00108,MGR027,Marketing,Especialista em Growth,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 06:37:57,Platform Course,6,8
+EMP00062,,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 16:37:57,Platform Course,4,8
+EMP00308,MGR030,Tecnologia,Tech Lead,Pleno,Cultura Data-Driven,2026-05-25,2026-05-12 17:37:57,Platform Course,4,7
+EMP00278,MGR003,Tecnologia,Engenheiro de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 02:37:57,Platform Course,6,10
+EMP00117,MGR019,Comercial,Inside Sales,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-05 21:37:57,Platform Course,6,10
+EMP00336,MGR038,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 08:37:57,Platform Course,6,9
+EMP00230,MGR046,Financeiro,Controller,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 10:37:57,Live Meet,6,8
+EMP00007,MGR030,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 09:37:57,Platform Course,6,8
+EMP00018,MGR022,Comercial,Gerente Comercial,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 02:37:57,Live Meet,4,8
+EMP00314,MGR047,Comercial,Gerente Comercial,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-18 03:37:57,Live Meet,6,8
+EMP00075,MGR033,Dados & Analytics,Cientista de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 20:37:57,Platform Course,6,10
+EMP00297,MGR022,Dados & Analytics,Cientista de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-13 05:37:57,Platform Course,4,10
+EMP00269,MGR012,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-13 03:37:57,Platform Course,4,10
+EMP00244,MGR030,Tecnologia,Engenheiro de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-06 10:37:57,Platform Course,4,9
+EMP00254,MGR028,Financeiro,Analista Financeiro,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 02:37:57,Platform Course,6,9
+EMP00019,MGR004,Marketing,Especialista em Growth,,Cultura Data-Driven,2026-05-25,2026-05-19 13:37:57,Platform Course,4,9
+EMP00344,MGR037,Tecnologia,Tech Lead,Sênior,Cultura Data-Driven,2026-05-25,2026-05-24 11:37:57,Platform Course,4,8
+EMP00334,MGR016,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 09:37:57,Live Meet,6,9
+EMP00002,MGR049,People,Business Partner,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 10:37:57,Platform Course,6,10
+EMP00086,MGR040,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-20 09:37:57,Platform Course,4,10
+EMP00013,MGR051,Comercial,Inside Sales,Pleno,Cultura Data-Driven,2026-05-25,2026-05-21 17:37:57,Live Meet,4,10
+EMP00176,MGR041,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-25 12:37:57,Platform Course,4,8
+EMP00274,MGR018,Tecnologia,Engenheiro de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-05 11:37:57,Platform Course,4,7
+EMP00302,MGR013,Tecnologia,Desenvolvedor Backend,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-16 03:37:57,Live Meet,12,9
+EMP00276,MGR044,Tecnologia,Desenvolvedor Backend,Especialista,Cultura Data-Driven,2026-05-25,2026-05-22 19:37:57,Platform Course,4,7
+EMP00307,MGR033,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 01:37:57,Platform Course,6,9
+EMP00193,MGR016,Financeiro,Controller,Júnior,Cultura Data-Driven,2026-05-25,2026-05-10 02:37:57,Platform Course,4,9
+EMP00090,MGR009,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 09:37:57,Live Meet,6,8
+EMP00051,MGR040,Comercial,Inside Sales,Pleno,Cultura Data-Driven,2026-05-25,2026-05-15 18:37:57,Live Meet,4,8
+EMP00282,MGR001,Tecnologia,Engenheiro de Dados,Especialista,Cultura Data-Driven,2026-05-25,2026-05-10 07:37:57,Live Meet,4,7
+EMP00162,MGR055,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-19 21:37:57,Platform Course,4,8
+EMP00320,MGR029,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 19:37:57,Platform Course,4,8
+EMP00280,MGR011,Comercial,Inside Sales,Júnior,Cultura Data-Driven,2026-05-25,2026-05-17 12:37:57,Platform Course,4,8
+EMP00171,MGR057,Tecnologia,Tech Lead,,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 10:37:57,Platform Course,6,9
+EMP00218,MGR011,Operações,Coordenador Operacional,Sênior,Cultura Data-Driven,2026-05-25,2026-05-11 03:37:57,Platform Course,4,7
+EMP00297,MGR037,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-10 03:37:57,Platform Course,4,9
+EMP00075,MGR044,Dados & Analytics,Analista de BI,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 12:37:57,Live Meet,4,9
+EMP00076,MGR031,Tecnologia,Desenvolvedor Backend,Sênior,Cultura Data-Driven,2026-05-25,2026-05-06 18:37:57,Platform Course,4,9
+EMP00236,MGR034,Dados & Analytics,Analytics Engineer,Especialista,Cultura Data-Driven,2026-05-25,2026-05-06 09:37:57,Platform Course,4,10
+EMP00094,MGR032,Financeiro,Controller,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 15:37:57,Platform Course,4,8
+EMP00256,MGR021,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-13 19:37:57,Live Meet,4,9
+EMP00156,MGR034,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-10 07:37:57,Live Meet,4,9
+EMP00163,MGR020,Dados & Analytics,Analytics Engineer,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 09:37:57,Live Meet,6,8
+EMP00052,MGR034,People,Coordenador de RH,Sênior,Cultura Data-Driven,2026-05-25,2026-05-09 22:37:57,Platform Course,4,9
+EMP00040,MGR059,Comercial,Gerente Comercial,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 13:37:57,Live Meet,6,9
+EMP00052,MGR039,Operações,Coordenador Operacional,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 14:37:57,Live Meet,4,9
+EMP00206,MGR027,Tecnologia,Arquiteto de Soluções,Pleno,Cultura Data-Driven,2026-05-25,2026-05-08 12:37:57,Platform Course,4,9
+EMP00074,MGR049,Tecnologia,Desenvolvedor Backend,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-21 23:37:57,Platform Course,12,9
+EMP00241,MGR035,Financeiro,Analista Financeiro,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 13:37:57,Live Meet,6,10
+EMP00122,MGR060,Tecnologia,Desenvolvedor Backend,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-08 19:37:57,Live Meet,12,10
+EMP00236,MGR052,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-16 06:37:57,Platform Course,4,10
+EMP00020,MGR020,Dados & Analytics,Cientista de Dados,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 00:37:57,Platform Course,6,10
+EMP00167,MGR056,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-18 08:37:57,Platform Course,4,10
+EMP00279,MGR027,Comercial,Inside Sales,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 16:37:57,Live Meet,6,9
+EMP00084,MGR036,People,Business Partner,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 21:37:57,Live Meet,6,10
+EMP00206,MGR018,Tecnologia,Desenvolvedor Backend,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 02:37:57,Platform Course,6,9
+EMP00127,MGR006,Tecnologia,Desenvolvedor Backend,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-12 04:37:57,Platform Course,12,8
+EMP00005,MGR039,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 04:37:57,Platform Course,6,10
+EMP00045,MGR059,Operações,Analista de Operações,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 22:37:57,Platform Course,6,9
+EMP00147,,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 11:37:57,Platform Course,6,9
+EMP00019,,Tecnologia,Tech Lead,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-20 04:37:57,Live Meet,12,7
+EMP00192,MGR059,Marketing,Especialista em Growth,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-09 22:37:57,Live Meet,6,9
+EMP00324,MGR036,Operações,Coordenador Operacional,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 02:37:57,Platform Course,6,9
+EMP00057,MGR039,Operações,Analista de Operações,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-21 20:37:57,Live Meet,12,7
+EMP00051,MGR029,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 07:37:57,Live Meet,4,8
+EMP00286,MGR043,Tecnologia,Arquiteto de Soluções,Pleno,Cultura Data-Driven,2026-05-25,2026-05-24 14:37:57,Platform Course,4,8
+EMP00234,MGR026,Marketing,Analista de Marketing,Júnior,Cultura Data-Driven,2026-05-25,2026-05-18 14:37:57,Platform Course,4,10
+EMP00331,MGR023,Dados & Analytics,Analista de BI,Júnior,Cultura Data-Driven,2026-05-25,2026-05-25 23:37:57,Platform Course,4,9
+EMP00239,MGR045,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-20 19:37:57,Live Meet,4,10
+EMP00262,MGR039,Dados & Analytics,Analista de BI,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-09 09:37:57,Platform Course,12,9
+EMP00133,MGR037,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-14 18:37:57,Platform Course,4,10
+EMP00014,MGR015,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 10:37:57,Platform Course,4,7
+EMP00041,MGR049,Comercial,Inside Sales,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-15 16:37:57,Platform Course,12,9
+EMP00344,MGR053,People,Business Partner,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-15 09:37:57,Live Meet,12,8
+EMP00073,MGR053,People,Business Partner,Sênior,Cultura Data-Driven,2026-05-25,2026-05-07 19:37:57,Platform Course,4,9
+EMP00146,MGR041,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 02:37:57,Live Meet,6,8
+EMP00202,MGR013,Comercial,Executivo de Contas,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-22 20:37:57,Live Meet,12,8
+EMP00242,MGR026,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-15 10:37:57,Live Meet,4,8
+EMP00270,MGR021,People,Analista de People,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 17:37:57,Live Meet,6,9
+EMP00112,MGR031,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-25 22:37:57,Platform Course,4,8
+EMP00342,MGR007,Operações,Coordenador Operacional,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 13:37:57,Live Meet,6,9
+EMP00158,MGR049,Tecnologia,Arquiteto de Soluções,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 14:37:57,Platform Course,6,9
+EMP00100,MGR043,Tecnologia,Tech Lead,,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 18:37:57,Live Meet,6,9
+EMP00063,MGR006,Comercial,Inside Sales,Sênior,Cultura Data-Driven,2026-05-25,2026-05-21 08:37:57,Platform Course,4,10
+EMP00098,MGR004,Tecnologia,Engenheiro de Dados,,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 23:37:57,Live Meet,6,8
+EMP00190,MGR009,Comercial,Gerente Comercial,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 19:37:57,Live Meet,6,10
+EMP00038,MGR001,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 01:37:57,Platform Course,6,9
+EMP00167,MGR020,Comercial,Inside Sales,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-07 23:37:57,Live Meet,12,9
+EMP00342,MGR011,Comercial,Gerente Comercial,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-10 04:37:57,Live Meet,12,10
+EMP00014,MGR044,Operações,Coordenador Operacional,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 03:37:57,Live Meet,6,9
+EMP00348,MGR052,Operações,Analista de Operações,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 03:37:57,Live Meet,6,9
+EMP00280,MGR015,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-13 20:37:57,Platform Course,4,8
+EMP00092,MGR060,Operações,Coordenador Operacional,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 23:37:57,Platform Course,6,9
+EMP00145,MGR038,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 03:37:57,Live Meet,6,10
+EMP00296,MGR019,Dados & Analytics,Analista de BI,,Cultura Data-Driven,2026-05-25,2026-05-25 10:37:57,Platform Course,4,9
+EMP00035,MGR046,Tecnologia,Desenvolvedor Backend,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-05 04:37:57,Live Meet,6,10
+EMP00119,MGR004,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-17 13:37:57,Platform Course,4,9
+EMP00238,MGR025,Tecnologia,Engenheiro de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-11 18:37:57,Live Meet,4,9
+EMP00297,MGR041,Tecnologia,Arquiteto de Soluções,Júnior,Cultura Data-Driven,2026-05-25,2026-05-05 08:37:57,Live Meet,4,10
+EMP00306,MGR002,People,Analista de People,,Cultura Data-Driven,2026-05-25,2026-05-23 09:37:57,Live Meet,4,9
+EMP00027,MGR001,Dados & Analytics,Analytics Engineer,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-06 05:37:57,Platform Course,12,9
+EMP00203,MGR046,Tecnologia,Desenvolvedor Backend,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 18:37:57,Platform Course,6,8
+EMP00231,MGR012,Financeiro,Analista Financeiro,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-22 22:37:57,Live Meet,12,9
+EMP00283,MGR001,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-16 22:37:57,Platform Course,4,8
+EMP00040,MGR028,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-09 12:37:57,Platform Course,4,9
+EMP00196,MGR033,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 01:37:57,Platform Course,6,9
+EMP00158,MGR046,Dados & Analytics,Analista de BI,Júnior,Cultura Data-Driven,2026-05-25,2026-05-12 02:37:57,Platform Course,4,9
+EMP00227,MGR055,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-15 09:37:57,Live Meet,4,8
+EMP00016,MGR037,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-21 15:37:57,Platform Course,4,9
+EMP00156,MGR051,Tecnologia,Engenheiro de Dados,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 10:37:57,Platform Course,6,8
+EMP00051,MGR050,People,Business Partner,Júnior,Cultura Data-Driven,2026-05-25,2026-05-13 03:37:57,Platform Course,4,8
+EMP00151,MGR008,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 00:37:57,Platform Course,6,8
+EMP00158,MGR053,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 01:37:57,Live Meet,4,9
+EMP00105,MGR032,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-09 11:37:57,Platform Course,4,10
+EMP00088,MGR058,Comercial,Executivo de Contas,,Cultura Data-Driven,2026-05-25,2026-05-21 00:37:57,Platform Course,4,8
+EMP00214,MGR015,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-26 01:37:57,Live Meet,4,10
+EMP00112,MGR043,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 18:37:57,Platform Course,4,9
+EMP00183,MGR016,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-13 18:37:57,Platform Course,4,7
+EMP00284,MGR046,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 15:37:57,Platform Course,4,8
+EMP00098,MGR043,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 05:37:57,Platform Course,6,9
+EMP00345,MGR018,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 11:37:57,Platform Course,4,9
+EMP00304,MGR029,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-20 00:37:57,Live Meet,4,9
+EMP00020,MGR032,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-17 07:37:57,Platform Course,4,8
+EMP00162,MGR006,Tecnologia,Arquiteto de Soluções,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 12:37:57,Live Meet,6,9
+EMP00004,MGR044,Dados & Analytics,Analista de BI,Pleno,Cultura Data-Driven,2026-05-25,2026-05-21 04:37:57,Live Meet,4,7
+EMP00122,MGR054,Dados & Analytics,Cientista de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 14:37:57,Live Meet,6,9
+EMP00120,MGR020,Tecnologia,Arquiteto de Soluções,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-06 02:37:57,Live Meet,12,9
+EMP00056,MGR002,Marketing,Especialista em Growth,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 21:37:57,Platform Course,6,10
+EMP00205,MGR014,Operações,Coordenador Operacional,Sênior,Cultura Data-Driven,2026-05-25,2026-05-17 02:37:57,Platform Course,4,9
+EMP00082,MGR019,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-10 01:37:57,Platform Course,4,7
+EMP00019,MGR005,Dados & Analytics,Analytics Engineer,Sênior,Cultura Data-Driven,2026-05-25,2026-05-09 22:37:57,Live Meet,4,10
+EMP00098,MGR030,Tecnologia,Tech Lead,Pleno,Cultura Data-Driven,2026-05-25,2026-05-05 17:37:57,Platform Course,4,8
+EMP00124,MGR015,Tecnologia,Desenvolvedor Backend,Pleno,Cultura Data-Driven,2026-05-25,2026-05-20 10:37:57,Platform Course,4,8
+EMP00134,MGR041,Comercial,Gerente Comercial,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-16 02:37:57,Platform Course,12,9
+EMP00182,MGR051,Tecnologia,Desenvolvedor Backend,Júnior,Cultura Data-Driven,2026-05-25,2026-05-23 14:37:57,Platform Course,4,8
+EMP00191,MGR059,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-21 08:37:57,Platform Course,4,8
+EMP00320,MGR016,Comercial,Gerente Comercial,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 09:37:57,Platform Course,6,8
+EMP00146,MGR010,Dados & Analytics,Cientista de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 11:37:57,Platform Course,6,8
+EMP00147,MGR058,Comercial,Gerente Comercial,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-23 04:37:57,Live Meet,12,8
+EMP00323,MGR049,Operações,Coordenador Operacional,,Cultura Data-Driven,2026-05-25,2026-05-08 18:37:57,Platform Course,4,8
+EMP00030,MGR050,People,Analista de People,Pleno,Cultura Data-Driven,2026-05-25,2026-05-10 22:37:57,Platform Course,4,9
+EMP00297,MGR026,People,Coordenador de RH,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-13 23:37:57,Platform Course,12,9
+EMP00079,MGR033,Tecnologia,Desenvolvedor Backend,Júnior,Cultura Data-Driven,2026-05-25,2026-05-05 03:37:57,Platform Course,4,8
+EMP00171,MGR019,Operações,Coordenador Operacional,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-16 20:37:57,Live Meet,12,9
+EMP00194,MGR030,Comercial,Gerente Comercial,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 22:37:57,Platform Course,6,7
+EMP00247,MGR038,Comercial,Executivo de Contas,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 04:37:57,Live Meet,6,9
+EMP00206,MGR020,Comercial,Gerente Comercial,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 01:37:57,Platform Course,6,10
+EMP00321,MGR011,Operações,Coordenador Operacional,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-11 09:37:57,Live Meet,12,9
+EMP00228,MGR011,People,Coordenador de RH,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 09:37:57,Live Meet,4,10
+EMP00226,MGR028,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 14:37:57,Platform Course,6,8
+EMP00078,MGR010,Dados & Analytics,Analytics Engineer,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-14 11:37:57,Live Meet,12,9
+EMP00293,MGR016,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-11 05:37:57,Live Meet,4,8
+EMP00141,MGR041,Comercial,Inside Sales,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 10:37:57,Platform Course,6,9
+EMP00157,MGR042,Comercial,Inside Sales,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-10 02:37:57,Live Meet,12,7
+EMP00020,MGR011,Dados & Analytics,Analytics Engineer,Pleno,Cultura Data-Driven,2026-05-25,2026-05-23 09:37:57,Platform Course,4,10
+EMP00302,MGR056,Operações,Coordenador Operacional,Júnior,Cultura Data-Driven,2026-05-25,2026-05-05 21:37:57,Platform Course,4,7
+EMP00275,MGR037,Comercial,Gerente Comercial,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 03:37:57,Platform Course,6,9
+EMP00117,MGR032,Tecnologia,Tech Lead,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 13:37:57,Platform Course,6,8
+EMP00328,MGR003,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-23 16:37:57,Platform Course,4,7
+EMP00085,MGR004,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 00:37:57,Platform Course,4,8
+EMP00137,MGR028,Tecnologia,Arquiteto de Soluções,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-25 12:37:57,Platform Course,12,8
+EMP00297,MGR010,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-15 21:37:57,Platform Course,4,10
+EMP00314,MGR018,People,Analista de People,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 09:37:57,Live Meet,6,8
+EMP00197,MGR059,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 03:37:57,Platform Course,4,9
+EMP00346,MGR027,People,Analista de People,Júnior,Cultura Data-Driven,2026-05-25,2026-05-19 12:37:57,Live Meet,4,7
+EMP00144,,Tecnologia,Tech Lead,Pleno,Cultura Data-Driven,2026-05-25,2026-05-10 15:37:57,Platform Course,4,10
+EMP00127,MGR014,Operações,Analista de Operações,,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 01:37:57,Platform Course,6,10
+EMP00237,MGR045,Comercial,Gerente Comercial,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 18:37:57,Live Meet,6,10
+EMP00167,MGR038,People,Analista de People,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-18 09:37:57,Platform Course,6,10
+EMP00186,MGR060,Tecnologia,Engenheiro de Dados,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-06 04:37:57,Live Meet,12,10
+EMP00297,MGR033,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-06 22:37:57,Platform Course,4,8
+EMP00209,MGR050,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 12:37:57,Platform Course,6,7
+EMP00025,MGR054,Financeiro,Controller,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 04:37:57,Platform Course,6,8
+EMP00013,,Operações,Coordenador Operacional,,GenAI para todos - Módulo básico,2026-05-25,2026-05-08 08:37:57,Platform Course,6,10
+EMP00066,MGR033,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-05 18:37:57,Live Meet,4,8
+EMP00239,MGR060,Tecnologia,Arquiteto de Soluções,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 02:37:57,Platform Course,6,8
+EMP00084,MGR046,Tecnologia,Tech Lead,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-22 15:37:57,Platform Course,12,7
+EMP00013,MGR053,Comercial,Inside Sales,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 14:37:57,Live Meet,6,10
+EMP00080,MGR046,Comercial,Gerente Comercial,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-11 16:37:57,Platform Course,6,7
+EMP00042,MGR030,Dados & Analytics,Analista de BI,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 17:37:57,Platform Course,6,9
+EMP00208,MGR001,Dados & Analytics,Analytics Engineer,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 18:37:57,Platform Course,4,10
+EMP00030,MGR037,Operações,Analista de Operações,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 00:37:57,Platform Course,6,9
+EMP00293,MGR023,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-13 00:37:57,Platform Course,4,8
+EMP00327,MGR032,People,Analista de People,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-19 15:37:57,Live Meet,12,8
+EMP00079,MGR006,Comercial,Executivo de Contas,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 23:37:57,Live Meet,6,9
+EMP00018,MGR020,Financeiro,Analista Financeiro,Júnior,Cultura Data-Driven,2026-05-25,2026-05-06 14:37:57,Live Meet,4,8
+EMP00037,MGR024,Operações,Coordenador Operacional,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-21 00:37:57,Live Meet,12,8
+EMP00059,MGR046,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-15 07:37:57,Platform Course,4,8
+EMP00101,,Tecnologia,Arquiteto de Soluções,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-22 21:37:57,Platform Course,12,9
+EMP00058,MGR052,Jurídico,Advogado Corporativo,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-10 13:37:57,Live Meet,12,8
+EMP00072,MGR007,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-09 08:37:57,Live Meet,6,8
+EMP00330,MGR002,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 07:37:57,Live Meet,6,10
+EMP00245,MGR001,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 09:37:57,Live Meet,4,9
+EMP00194,MGR050,Tecnologia,Engenheiro de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 07:37:57,Platform Course,4,10
+EMP00141,MGR048,Jurídico,Advogado Corporativo,Pleno,Cultura Data-Driven,2026-05-25,2026-05-26 01:37:57,Live Meet,4,9
+EMP00001,MGR049,Dados & Analytics,Cientista de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-15 16:37:57,Platform Course,4,10
+EMP00276,MGR044,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 03:37:57,Platform Course,6,9
+EMP00157,MGR058,Financeiro,Controller,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-11 22:37:57,Platform Course,12,9
+EMP00036,MGR040,Dados & Analytics,Cientista de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 01:37:57,Platform Course,6,7
+EMP00343,MGR036,People,Coordenador de RH,Pleno,Cultura Data-Driven,2026-05-25,2026-05-19 16:37:57,Live Meet,4,9
+EMP00109,MGR029,Dados & Analytics,Analytics Engineer,Pleno,Cultura Data-Driven,2026-05-25,2026-05-10 20:37:57,Live Meet,4,10
+EMP00312,MGR039,Comercial,Inside Sales,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-07 21:37:57,Live Meet,12,10
+EMP00184,MGR030,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-07 16:37:57,Live Meet,4,8
+EMP00158,MGR005,Tecnologia,Arquiteto de Soluções,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 06:37:57,Platform Course,6,8
+EMP00350,MGR039,People,Business Partner,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-13 05:37:57,Live Meet,12,9
+EMP00285,MGR015,Tecnologia,Tech Lead,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 21:37:57,Live Meet,6,10
+EMP00237,MGR021,Dados & Analytics,Analista de BI,Pleno,Cultura Data-Driven,2026-05-25,2026-05-10 00:37:57,Live Meet,4,10
+EMP00342,MGR030,Dados & Analytics,Analista de BI,Júnior,Cultura Data-Driven,2026-05-25,2026-05-24 17:37:57,Platform Course,4,9
+EMP00223,MGR005,Comercial,Executivo de Contas,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-12 05:37:57,Platform Course,12,10
+EMP00059,MGR030,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-15 03:37:57,Live Meet,4,7
+EMP00325,MGR028,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 04:37:57,Platform Course,6,8
+EMP00067,MGR025,Operações,Coordenador Operacional,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-14 20:37:57,Live Meet,12,9
+EMP00165,MGR030,Tecnologia,Arquiteto de Soluções,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 09:37:57,Platform Course,6,10
+EMP00014,MGR020,Dados & Analytics,Cientista de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 21:37:57,Live Meet,6,10
+EMP00350,,Tecnologia,Desenvolvedor Backend,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-06 07:37:57,Live Meet,12,9
+EMP00090,MGR042,Operações,Coordenador Operacional,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-23 15:37:57,Platform Course,12,9
+EMP00284,MGR006,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 19:37:57,Platform Course,6,9
+EMP00278,MGR027,Operações,Coordenador Operacional,Especialista,Cultura Data-Driven,2026-05-25,2026-05-13 09:37:57,Live Meet,4,9
+EMP00250,MGR031,Marketing,Analista de Marketing,Júnior,Cultura Data-Driven,2026-05-25,2026-05-14 04:37:57,Platform Course,4,7
+EMP00176,MGR047,Dados & Analytics,Analytics Engineer,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-26 02:37:57,Live Meet,6,7
+EMP00282,MGR054,People,Coordenador de RH,Especialista,Cultura Data-Driven,2026-05-25,2026-05-10 10:37:57,Platform Course,4,9
+EMP00156,MGR025,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-18 01:37:57,Live Meet,4,9
+EMP00156,MGR031,Operações,Coordenador Operacional,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 17:37:57,Live Meet,6,8
+EMP00255,MGR031,Comercial,Gerente Comercial,Sênior,Cultura Data-Driven,2026-05-25,2026-05-24 10:37:57,Live Meet,4,10
+EMP00272,MGR048,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-23 11:37:57,Live Meet,4,10
+EMP00123,MGR050,Financeiro,Analista Financeiro,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-16 21:37:57,Live Meet,12,9
+EMP00320,MGR046,Dados & Analytics,Cientista de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-11 13:37:57,Platform Course,4,9
+EMP00248,MGR058,Financeiro,Analista Financeiro,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 00:37:57,Platform Course,6,9
+EMP00263,MGR047,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-14 16:37:57,Platform Course,4,9
+EMP00261,MGR019,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 07:37:57,Platform Course,6,9
+EMP00062,MGR023,Tecnologia,Tech Lead,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 20:37:57,Live Meet,6,8
+EMP00185,MGR020,Operações,Analista de Operações,Pleno,Cultura Data-Driven,2026-05-25,2026-05-16 01:37:57,Platform Course,4,9
+EMP00018,MGR055,Dados & Analytics,Analytics Engineer,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-20 15:37:57,Live Meet,12,8
+EMP00184,MGR055,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 14:37:57,Live Meet,6,8
+EMP00032,MGR047,Comercial,Inside Sales,Pleno,Cultura Data-Driven,2026-05-25,2026-05-05 17:37:57,Platform Course,4,9
+EMP00101,MGR042,Operações,Coordenador Operacional,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-15 11:37:57,Platform Course,12,9
+EMP00289,MGR006,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-13 06:37:57,Platform Course,4,7
+EMP00094,MGR017,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 14:37:57,Live Meet,6,8
+EMP00069,MGR016,Operações,Analista de Operações,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-18 00:37:57,Live Meet,12,10
+EMP00176,MGR036,Tecnologia,Tech Lead,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-22 11:37:57,Live Meet,6,9
+EMP00241,MGR037,Tecnologia,Tech Lead,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 04:37:57,Platform Course,6,9
+EMP00182,MGR034,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 14:37:57,Platform Course,6,8
+EMP00327,,Dados & Analytics,Analytics Engineer,Especialista,Cultura Data-Driven,2026-05-25,2026-05-21 06:37:57,Platform Course,4,9
+EMP00194,MGR020,Dados & Analytics,Cientista de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-17 06:37:57,Platform Course,4,9
+EMP00288,MGR033,Comercial,Inside Sales,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-08 04:37:57,Platform Course,6,9
+EMP00325,MGR014,Operações,Analista de Operações,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-10 10:37:57,Live Meet,12,7
+EMP00331,MGR044,Operações,Coordenador Operacional,Pleno,Cultura Data-Driven,2026-05-25,2026-05-05 15:37:57,Platform Course,4,9
+EMP00239,MGR001,Financeiro,Analista Financeiro,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-09 22:37:57,Platform Course,12,8
+EMP00147,,People,Business Partner,Júnior,Cultura Data-Driven,2026-05-25,2026-05-10 22:37:57,Live Meet,4,8
+EMP00222,MGR017,People,Business Partner,Pleno,Cultura Data-Driven,2026-05-25,2026-05-09 21:37:57,Platform Course,4,9
+EMP00184,MGR042,Jurídico,Advogado Corporativo,Sênior,Cultura Data-Driven,2026-05-25,2026-05-20 15:37:57,Platform Course,4,10
+EMP00251,MGR006,People,Analista de People,Pleno,GenAI - Módulo Avançado,2026-05-25,2026-05-18 11:37:57,Live Meet,12,8
+EMP00051,MGR022,Tecnologia,Desenvolvedor Backend,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 11:37:57,Platform Course,6,9
+EMP00322,MGR048,Tecnologia,Tech Lead,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 09:37:57,Platform Course,6,9
+EMP00324,MGR041,Dados & Analytics,Cientista de Dados,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-20 19:37:57,Platform Course,6,8
+EMP00253,MGR007,Tecnologia,Tech Lead,Júnior,Cultura Data-Driven,2026-05-25,2026-05-09 18:37:57,Live Meet,4,7
+EMP00131,MGR014,Tecnologia,Engenheiro de Dados,Sênior,Cultura Data-Driven,2026-05-25,2026-05-10 16:37:57,Platform Course,4,10
+EMP00282,MGR024,People,Coordenador de RH,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 03:37:57,Platform Course,6,9
+EMP00345,MGR007,Dados & Analytics,Analista de BI,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 02:37:57,Platform Course,4,9
+EMP00345,MGR031,Dados & Analytics,Analytics Engineer,Júnior,Cultura Data-Driven,2026-05-25,2026-05-06 12:37:57,Live Meet,4,7
+EMP00247,MGR051,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-13 00:37:57,Live Meet,4,7
+EMP00218,MGR002,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 06:37:57,Live Meet,6,8
+EMP00288,MGR018,Comercial,Executivo de Contas,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 22:37:57,Platform Course,4,8
+EMP00095,MGR010,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 21:37:57,Live Meet,4,10
+EMP00259,MGR025,Comercial,Inside Sales,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 06:37:57,Platform Course,6,10
+EMP00008,MGR038,Marketing,Analista de Marketing,,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 19:37:57,Platform Course,6,9
+EMP00188,MGR010,Marketing,Analista de Marketing,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-24 14:37:57,Live Meet,6,9
+EMP00125,MGR021,Dados & Analytics,Cientista de Dados,Júnior,Cultura Data-Driven,2026-05-25,2026-05-20 04:37:57,Platform Course,4,10
+EMP00095,MGR011,Tecnologia,Engenheiro de Dados,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-18 04:37:57,Platform Course,6,10
+EMP00313,MGR050,Operações,Analista de Operações,Especialista,Cultura Data-Driven,2026-05-25,2026-05-25 05:37:57,Platform Course,4,7
+EMP00009,MGR005,Operações,Analista de Operações,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 11:37:57,Platform Course,6,9
+EMP00066,MGR011,Dados & Analytics,Analista de BI,Júnior,Cultura Data-Driven,2026-05-25,2026-05-22 01:37:57,Platform Course,4,9
+EMP00217,MGR030,Comercial,Executivo de Contas,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 06:37:57,Live Meet,6,9
+EMP00069,MGR039,Tecnologia,Engenheiro de Dados,Pleno,Cultura Data-Driven,2026-05-25,2026-05-19 14:37:57,Platform Course,4,10
+EMP00290,MGR014,Operações,Coordenador Operacional,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-16 08:37:57,Platform Course,6,8
+EMP00094,MGR060,People,Business Partner,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-14 16:37:57,Live Meet,6,9
+EMP00251,MGR001,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-07 21:37:57,Platform Course,6,10
+EMP00064,MGR005,Tecnologia,Tech Lead,,Cultura Data-Driven,2026-05-25,2026-05-10 05:37:57,Live Meet,4,10
+EMP00068,MGR047,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-21 17:37:57,Platform Course,4,8
+EMP00173,MGR047,Marketing,Especialista em Growth,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-21 04:37:57,Platform Course,6,7
+EMP00189,MGR026,Operações,Analista de Operações,Júnior,Cultura Data-Driven,2026-05-25,2026-05-07 07:37:57,Platform Course,4,10
+EMP00291,,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-25 04:37:57,Platform Course,4,10
+EMP00030,MGR016,People,Coordenador de RH,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-15 09:37:57,Platform Course,6,9
+EMP00129,MGR044,Financeiro,Controller,Especialista,GenAI para todos - Módulo básico,2026-05-25,2026-05-17 20:37:57,Platform Course,6,9
+EMP00271,MGR024,Comercial,Inside Sales,Sênior,GenAI - Módulo Avançado,2026-05-25,2026-05-05 11:37:57,Live Meet,12,8
+EMP00183,MGR042,Comercial,Inside Sales,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-06 15:37:57,Platform Course,6,10
+EMP00174,MGR025,Tecnologia,Arquiteto de Soluções,Sênior,Cultura Data-Driven,2026-05-25,2026-05-14 17:37:57,Live Meet,4,9
+EMP00246,MGR002,Jurídico,Advogado Corporativo,Júnior,Cultura Data-Driven,2026-05-25,2026-05-11 10:37:57,Platform Course,4,8
+EMP00266,MGR044,Marketing,Especialista em Growth,Júnior,Cultura Data-Driven,2026-05-25,2026-05-18 07:37:57,Platform Course,4,9
+EMP00079,MGR014,Marketing,Especialista em Growth,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 02:37:57,Platform Course,6,10
+EMP00159,MGR036,Tecnologia,Engenheiro de Dados,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-13 13:37:57,Platform Course,6,9
+EMP00030,MGR004,Financeiro,Analista Financeiro,Sênior,Cultura Data-Driven,2026-05-25,2026-05-13 20:37:57,Platform Course,4,8
+EMP00140,MGR035,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-05 18:37:57,Platform Course,6,8
+EMP00341,MGR042,Comercial,Gerente Comercial,Pleno,Cultura Data-Driven,2026-05-25,2026-05-05 15:37:57,Platform Course,4,8
+EMP00192,MGR018,Financeiro,Controller,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-08 10:37:57,Live Meet,12,9
+EMP00292,MGR034,Financeiro,Controller,Júnior,Cultura Data-Driven,2026-05-25,2026-05-09 08:37:57,Platform Course,4,10
+EMP00109,,Tecnologia,Engenheiro de Dados,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 03:37:57,Platform Course,6,10
+EMP00005,MGR001,Jurídico,Advogado Corporativo,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-18 05:37:57,Live Meet,12,8
+EMP00076,MGR034,Financeiro,Controller,Especialista,GenAI - Módulo Avançado,2026-05-25,2026-05-06 22:37:57,Live Meet,12,9
+EMP00327,MGR025,Dados & Analytics,Analytics Engineer,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 14:37:57,Platform Course,6,8
+EMP00091,MGR045,Comercial,Executivo de Contas,Pleno,Cultura Data-Driven,2026-05-25,2026-05-12 16:37:57,Live Meet,4,9
+EMP00258,MGR032,Tecnologia,Engenheiro de Dados,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-24 11:37:57,Platform Course,12,9
+EMP00125,MGR033,People,Business Partner,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-25 12:37:57,Live Meet,6,9
+EMP00333,MGR010,Comercial,Gerente Comercial,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-19 05:37:57,Platform Course,6,9
+EMP00173,MGR054,Operações,Analista de Operações,Sênior,Cultura Data-Driven,2026-05-25,2026-05-22 00:37:57,Platform Course,4,9
+EMP00068,MGR032,Operações,Coordenador Operacional,Sênior,GenAI para todos - Módulo básico,2026-05-25,2026-05-10 01:37:57,Platform Course,6,8
+EMP00138,MGR039,People,Coordenador de RH,Pleno,GenAI para todos - Módulo básico,2026-05-25,2026-05-12 11:37:57,Platform Course,6,9
+EMP00062,MGR035,Marketing,Especialista em Growth,Pleno,Cultura Data-Driven,2026-05-25,2026-05-21 07:37:57,Platform Course,4,9
+EMP00206,MGR028,Tecnologia,Arquiteto de Soluções,Pleno,Cultura Data-Driven,2026-05-25,2026-05-18 11:37:57,Platform Course,4,9
+EMP00016,MGR045,Tecnologia,Arquiteto de Soluções,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-23 09:37:57,Live Meet,6,10
+EMP00181,MGR009,Comercial,Executivo de Contas,Júnior,GenAI para todos - Módulo básico,2026-05-25,2026-05-08 03:37:57,Platform Course,6,7
+EMP00086,MGR045,Financeiro,Controller,Júnior,GenAI - Módulo Avançado,2026-05-25,2026-05-06 08:37:57,Live Meet,12,7

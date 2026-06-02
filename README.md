@@ -17,6 +17,13 @@ Esta pasta contém uma base de dados de um ecossistema de e-commerce.
 
 ### 💼 2. `training_dataset`
 Esta pasta contém uma base de dados fake de usuários de treinamento corporativo. 
+* **Origem dos Dados:** Dados criados via IA.
+* **Estrutura interna:** Contém arquivos no formato `.csv` 
+
+### 💼 3. `jira_dataset`
+Esta pasta contém uma base de dados fake de tasks do Jira, envolvendo dados associados a times e sprints. 
+* **Origem dos Dados:** Dados criados via IA.
+* **Estrutura interna:** Contém arquivos no formato `.csv` 
 
 
 *(Novas pastas e cenários serão adicionados ao longo do semestre de acordo com o avanço do conteúdo).*

@@ -1,0 +1,46 @@
+access_id,student_id,course_id,course_name,category,access_date,minutes_studied
+1001,1,101,SQL para Dados,Dados,2025-01-03,45
+1002,1,103,Power BI,BI,2025-01-05,60
+1003,1,105,Machine Learning,IA,2025-01-07,90
+1004,2,101,SQL para Dados,Dados,2025-01-02,20
+1005,2,102,Python para Analytics,Dados,2025-01-08,35
+1006,3,105,Machine Learning,IA,2025-01-04,120
+1007,3,106,Prompt Engineering,IA,2025-01-10,95
+1008,4,103,Power BI,BI,2025-01-05,40
+1009,4,104,Excel Avançado,BI,2025-01-09,55
+1010,5,101,SQL para Dados,Dados,2025-01-06,15
+1011,5,102,Python para Analytics,Dados,2025-01-15,25
+1012,6,105,Machine Learning,IA,2025-01-12,180
+1013,6,106,Prompt Engineering,IA,2025-01-18,150
+1014,7,103,Power BI,BI,2025-01-08,35
+1015,8,107,Storytelling com Dados,Negócios,2025-01-10,50
+1016,8,101,SQL para Dados,Dados,2025-01-20,70
+1017,9,102,Python para Analytics,Dados,2025-01-12,80
+1018,9,105,Machine Learning,IA,2025-01-22,100
+1019,10,104,Excel Avançado,BI,2025-01-14,45
+1020,10,107,Storytelling com Dados,Negócios,2025-01-25,60
+1021,11,101,SQL para Dados,Dados,2025-02-02,50
+1022,11,102,Python para Analytics,Dados,2025-02-05,70
+1023,12,103,Power BI,BI,2025-02-03,90
+1024,12,104,Excel Avançado,BI,2025-02-08,65
+1025,13,105,Machine Learning,IA,2025-02-04,140
+1026,13,106,Prompt Engineering,IA,2025-02-10,110
+1027,14,107,Storytelling com Dados,Negócios,2025-02-06,55
+1028,15,101,SQL para Dados,Dados,2025-02-07,75
+1029,15,102,Python para Analytics,Dados,2025-02-12,95
+1030,16,103,Power BI,BI,2025-02-09,35
+1031,17,104,Excel Avançado,BI,2025-02-11,40
+1032,18,105,Machine Learning,IA,2025-02-14,160
+1033,18,106,Prompt Engineering,IA,2025-02-18,145
+1034,19,107,Storytelling com Dados,Negócios,2025-02-15,60
+1035,20,101,SQL para Dados,Dados,2025-02-17,85
+1036,21,102,Python para Analytics,Dados,2025-02-20,100
+1037,22,103,Power BI,BI,2025-02-21,55
+1038,23,104,Excel Avançado,BI,2025-02-22,70
+1039,24,105,Machine Learning,IA,2025-02-23,125
+1040,25,106,Prompt Engineering,IA,2025-02-24,130
+1041,26,107,Storytelling com Dados,Negócios,2025-02-25,65
+1042,27,101,SQL para Dados,Dados,2025-02-26,90
+1043,28,102,Python para Analytics,Dados,2025-02-27,45
+1044,29,103,Power BI,BI,2025-02-28,80
+1045,30,105,Machine Learning,IA,2025-02-28,170
